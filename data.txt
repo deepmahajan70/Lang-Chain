@@ -1,0 +1,9 @@
+
+    Industry 4.0 refers to the integration of IoT, cloud computing, and cyber-physical systems in manufacturing.
+
+    Intrusion Detection Systems (IDS) are used to detect malicious activities in a network.
+
+    Machine learning techniques like Isolation Forest and Autoencoders are commonly used in IDS.
+
+    Precision inversion occurs when precision decreases due to majority attack traffic.
+    
